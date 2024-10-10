@@ -1,0 +1,6 @@
+{
+    "css.format.braceStyle": "collapse",
+    "scm.alwaysShowRepositories": false,
+    "scm.diffDecorationsGutterWidth": 5,
+    "remote.autoForwardPortsSource": "process"
+}
